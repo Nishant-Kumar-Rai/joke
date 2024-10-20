@@ -1,5 +1,5 @@
 # jokes
-![image](https://github.com/user-attachments/assets/1f08742e-ebc5-48fc-ad45-038ca15e51d0)
+ ![Alt text](https://github.com/user-attachments/assets/1f08742e-ebc5-48fc-ad45-038ca15e51d0)
 ![image](https://github.com/user-attachments/assets/36474fe9-6424-414f-85ee-b4837ea293ec)
 # Functionalities:
 1. Display a Random Joke on Launching.
